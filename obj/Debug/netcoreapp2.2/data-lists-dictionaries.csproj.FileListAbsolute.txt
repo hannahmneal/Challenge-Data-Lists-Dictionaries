@@ -1,0 +1,11 @@
+/Users/hannahneal/workspace/C-sharp/challenges/data-lists-dictionaries/bin/Debug/netcoreapp2.2/data-lists-dictionaries.deps.json
+/Users/hannahneal/workspace/C-sharp/challenges/data-lists-dictionaries/bin/Debug/netcoreapp2.2/data-lists-dictionaries.runtimeconfig.json
+/Users/hannahneal/workspace/C-sharp/challenges/data-lists-dictionaries/bin/Debug/netcoreapp2.2/data-lists-dictionaries.runtimeconfig.dev.json
+/Users/hannahneal/workspace/C-sharp/challenges/data-lists-dictionaries/bin/Debug/netcoreapp2.2/data-lists-dictionaries.dll
+/Users/hannahneal/workspace/C-sharp/challenges/data-lists-dictionaries/bin/Debug/netcoreapp2.2/data-lists-dictionaries.pdb
+/Users/hannahneal/workspace/C-sharp/challenges/data-lists-dictionaries/obj/Debug/netcoreapp2.2/data-lists-dictionaries.csprojAssemblyReference.cache
+/Users/hannahneal/workspace/C-sharp/challenges/data-lists-dictionaries/obj/Debug/netcoreapp2.2/data-lists-dictionaries.csproj.CoreCompileInputs.cache
+/Users/hannahneal/workspace/C-sharp/challenges/data-lists-dictionaries/obj/Debug/netcoreapp2.2/data-lists-dictionaries.AssemblyInfoInputs.cache
+/Users/hannahneal/workspace/C-sharp/challenges/data-lists-dictionaries/obj/Debug/netcoreapp2.2/data-lists-dictionaries.AssemblyInfo.cs
+/Users/hannahneal/workspace/C-sharp/challenges/data-lists-dictionaries/obj/Debug/netcoreapp2.2/data-lists-dictionaries.dll
+/Users/hannahneal/workspace/C-sharp/challenges/data-lists-dictionaries/obj/Debug/netcoreapp2.2/data-lists-dictionaries.pdb
